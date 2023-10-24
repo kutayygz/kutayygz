@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kutayygz
-- 🎵I’m interested in music and beat making
-- 💻I’m currently learning I am learning programming language : phython and java
-- 👾I’m looking to collaborate on software, fl studio , game design
+- 💻I’m interested in  coding and design
+- 💻I’m currently learning I am learning programming language : c# unity 
+- 👾I’m looking to collaborate on software,  , game design
 - 📫 How to reach me kutayygz55@gmail.com 
 
 <!---
